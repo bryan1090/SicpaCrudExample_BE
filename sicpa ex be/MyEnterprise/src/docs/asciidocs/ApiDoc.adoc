@@ -1,0 +1,38 @@
+= Documentación de Servicios Rest
+
+== Enterprises
+
+=== - Create
+
+==== HTTP request
+include::{snippets}/enterprise-crear/http-request.adoc[]
+
+==== HTTP response
+include::{snippets}/enterprise-crear/http-response.adoc[]
+
+=== - List
+
+==== HTTP request
+include::{snippets}/enterprise-listar/http-request.adoc[]
+
+==== HTTP response
+include::{snippets}/enterprise-listar/http-response.adoc[]
+
+
+== Departments
+
+=== - Create
+
+==== HTTP request
+include::{snippets}/department-crear/http-request.adoc[]
+
+==== HTTP response
+include::{snippets}/department-crear/http-response.adoc[]
+
+=== - List
+
+==== HTTP request
+include::{snippets}/department-listar/http-request.adoc[]
+
+==== HTTP response
+include::{snippets}/department-listar/http-response.adoc[]
